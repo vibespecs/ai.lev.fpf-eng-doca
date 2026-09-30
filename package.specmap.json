@@ -1,0 +1,2790 @@
+{
+  "code_items": [],
+  "edges": [],
+  "schema": 3,
+  "spec_units": [
+    {
+      "anchor": "root",
+      "content_hash": "sha256:98b5ed302008bd25ef936df729b654afc8a5ab64948b33b69a59dbd3bdd06b27",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1 - Bound the Development-Opportunity Inquiry",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#root"
+    },
+    {
+      "anchor": "use-this-when",
+      "content_hash": "sha256:f55a3349de8f79349524ba900ad6aaedceb2b05eaec44afcfc50bd885e014ce0",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:0 - Use This When",
+      "line": 13,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#use-this-when"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:fc6b9c58f8016899dc4ae3cc54c86a851d15ba70e5b1182dcf1af0682e062472",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:1 - Problem Frame",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:ff3a200834c7fba137da8d97ad014475ee01e5eebcc76271732e4a04e819e3ca",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:2 - Problem",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:16f09469d9f89443c542742874fdd782b3d9134f80ad726b5f9f4de046a5cf25",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:3 - Forces",
+      "line": 47,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:0cedd588ec4e99ed70d3bcc3ed792f9900f68183a234c8c2d981d8bad0bbb042",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:4 - Solution",
+      "line": 59,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#solution"
+    },
+    {
+      "anchor": "identify-the-subject-and-claim-posture",
+      "content_hash": "sha256:14eda92baf0ebd1fe915f15ed03717539d563a6ad6e54a5539cb5e1041d6e15a",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:4.1 - Identify the subject and claim posture",
+      "line": 63,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#identify-the-subject-and-claim-posture"
+    },
+    {
+      "anchor": "identify-a-receiving-use-or-an-exploratory-question",
+      "content_hash": "sha256:05fa51caefaceabf0e4771874b19c6486b37f27998f124b3238c5ad0f4a7d3a0",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:4.2 - Identify a receiving use or an exploratory question",
+      "line": 69,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#identify-a-receiving-use-or-an-exploratory-question"
+    },
+    {
+      "anchor": "fix-the-horizon-and-protected-conditions",
+      "content_hash": "sha256:94f03ec9ea27a16d4ce87228c98fd5d7a3bf2d7240f75cf83612aecd927aeb3e",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:4.3 - Fix the horizon and protected conditions",
+      "line": 77,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#fix-the-horizon-and-protected-conditions"
+    },
+    {
+      "anchor": "state-the-reason-to-explore-and-separate-its-status",
+      "content_hash": "sha256:a3477f205385de510f361716aaa2c9643ad51229c357c0d20c8b7825d2a7cf6b",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:4.4 - State the reason to explore and separate its status",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#state-the-reason-to-explore-and-separate-its-status"
+    },
+    {
+      "anchor": "set-a-proportional-inquiry-budget-and-permissions",
+      "content_hash": "sha256:41e13ba122912427173e8206ac2625853273f9e34e4812b9b434aba9bc2fcacc",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:4.5 - Set a proportional inquiry budget and permissions",
+      "line": 95,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#set-a-proportional-inquiry-budget-and-permissions"
+    },
+    {
+      "anchor": "select-the-first-missing-result",
+      "content_hash": "sha256:b441dfc4925f4243b50c7f7b579a27b741c478d47810a686b7dba5c4951a53e4",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:4.6 - Select the first missing result",
+      "line": 101,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#select-the-first-missing-result"
+    },
+    {
+      "anchor": "return-the-bounded-inquiry-or-exact-gap",
+      "content_hash": "sha256:4767a049e9f924e8204b71e52d5809c58404bb6ddfd328a471f608f3e32e9b86",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:4.7 - Return the bounded inquiry or exact gap",
+      "line": 114,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#return-the-bounded-inquiry-or-exact-gap"
+    },
+    {
+      "anchor": "stop-reuse-and-reopen-locally",
+      "content_hash": "sha256:90aef75fe5274bcbdcf6b5a99de8c0ec62a2175726ec9b5e3be6e9e7da1d257d",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:4.8 - Stop, reuse, and reopen locally",
+      "line": 138,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#stop-reuse-and-reopen-locally"
+    },
+    {
+      "anchor": "what-changes-in-practice",
+      "content_hash": "sha256:733e83b1e4cd01fd21bf2442466692b736cda8b5a0039dbf1992711bbd3e539a",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:4.9 - What changes in practice",
+      "line": 144,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#what-changes-in-practice"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:317e44bb54e259953f23c0e7c93428e4be5f28b1c0307fd8f00903dceb882e4a",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:7 - Conformance Checklist",
+      "line": 148,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:40e563bd86f2590ead23eb326d3062f56dc4d191169b6e5d746c0c92c23ebe71",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:9 - Consequences",
+      "line": 165,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:8b6f91f0fb7dcc5b1719f788b3ce491902c0f5a7332f2af16d16af9b7cedec5d",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "DOCA.1:12 - Relations",
+      "line": 173,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:5eeb9b609b758c5542ac417cc0086151cf9de4a6a659fbe40fa22104ebc9acf1",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "Dependencies",
+      "line": 184,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:43919f51d2b9587307a84664be38aa08a5d7527c30edf7511d50f141c09a4139",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "Dependencies (as published): Direct holder or domain premises; spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#root when characterization is missing. @status:spec/done",
+      "line": 186,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:588034bce4a9cec291e0f937369cbff3c56ac161cfbeed2e84ae49cfbd324ae3",
+      "doc_path": "contract/DOCA-1",
+      "file": "vibevm/vibespecs/contract/DOCA-1.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-ops/contract/OPS-8-2#root @status:spec/done",
+      "line": 187,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:6ae67b2288b12bcc7a630a0657b4453aec109ea27b30a12a7dbea0fcc0bc4058",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR - Characterize the Development Subject and Intended Change",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#root"
+    },
+    {
+      "anchor": "use-this-when",
+      "content_hash": "sha256:06d1c614b8c1654ea0d8ada5347c1003120d20e8facd81821147ed65c6e2b02d",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:0 - Use This When",
+      "line": 13,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#use-this-when"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:b870e4daf91824a066aa679b528eb2852e5c6b455487b8a23e87020b9d130d3a",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:1 - Problem Frame",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:24329f23e65bd68797c3591ccc5dd27466820beb9e3604b212a3adf704ea57ec",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:2 - Problem",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:4588d0f8aa77e31fa7ac9bce905d2a901333098dce8424bf33e21ff1d6b25032",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:3 - Forces",
+      "line": 48,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:9ceef83c8aa0f347bb6b2bc32aa2556fe3292f78527041ad38fab0e2c41976bc",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:4 - Solution",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#solution"
+    },
+    {
+      "anchor": "bind-the-characterization-to-one-subject-use-and-horizon",
+      "content_hash": "sha256:aa40285fc7b592117681227ce8cb09af2c2fdfa5c882943f57d77736fff44952",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:4.1 - Bind the characterization to one subject, use, and horizon",
+      "line": 64,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#bind-the-characterization-to-one-subject-use-and-horizon"
+    },
+    {
+      "anchor": "select-characteristics-by-decision-difference",
+      "content_hash": "sha256:f829391c603c1c1ca65315f50526ab09eddd720e36cb2f2b92d6fb00f42479e2",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:4.2 - Select characteristics by decision difference",
+      "line": 72,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#select-characteristics-by-decision-difference"
+    },
+    {
+      "anchor": "define-each-selected-characteristic-and-reading",
+      "content_hash": "sha256:8685f4acd9d2c80080ea7c2df5487a7eb5511f92921e2100852b063579fab439",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:4.3 - Define each selected characteristic and reading",
+      "line": 90,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#define-each-selected-characteristic-and-reading"
+    },
+    {
+      "anchor": "orient-the-complete-comparison-coordinate-set",
+      "content_hash": "sha256:21bb0d938bf444de35b711d0dbb7908aba9f5d89bc31f278c922c28a52077709",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:4.4 - Orient the complete comparison coordinate set",
+      "line": 107,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#orient-the-complete-comparison-coordinate-set"
+    },
+    {
+      "anchor": "return-characteristic-meaning-and-evidence-to-direct-owners",
+      "content_hash": "sha256:0dec8c026b64fbdac8778b39f359b0f480eaa871e908ccb0de39a3c5992ffa5a",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:4.5 - Return characteristic meaning and evidence to direct owners",
+      "line": 122,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#return-characteristic-meaning-and-evidence-to-direct-owners"
+    },
+    {
+      "anchor": "write-the-bounded-characterization",
+      "content_hash": "sha256:1c2d2e636a609027f71f573be97ef911216e4f55f3212e5bef0be721fd96d983",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:4.6 - Write the bounded characterization",
+      "line": 138,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#write-the-bounded-characterization"
+    },
+    {
+      "anchor": "choose-the-next-truthful-result",
+      "content_hash": "sha256:cf6e37f52bbb556c5a252a81eee2cc9fb801dc71b5f7603a1d2732e0ddbb58c5",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:4.7 - Choose the next truthful result",
+      "line": 168,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#choose-the-next-truthful-result"
+    },
+    {
+      "anchor": "reopen-the-smallest-affected-scope",
+      "content_hash": "sha256:72b4a9b20caa2f252921cc6344fcf7906c05487bef66a93f8ff7ed439915b044",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:4.8 - Reopen the smallest affected scope",
+      "line": 182,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#reopen-the-smallest-affected-scope"
+    },
+    {
+      "anchor": "what-changes-in-practice",
+      "content_hash": "sha256:3c782f99e410e2150ba975a7d1a05f481d99de4a2311530621e7ee7b66b47651",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:4.9 - What changes in practice",
+      "line": 188,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#what-changes-in-practice"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:7c642e8b8e56aff63d6b95c45884d3f8baff146624c1d92e09098b007182d8ad",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:7 - Conformance Checklist",
+      "line": 192,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:655dc77226fa2f1024c61e2d05cfe7df6c62d24e7a53c9d3d5720b9ff4905454",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:9 - Consequences",
+      "line": 209,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:d416b0eef61c0b31aefa92cfac56791100b9131f1d42a2a858e55a5aeca372c0",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:12 - Relations",
+      "line": 217,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:3dd7d9a3892e5e1526d458081eb03d1892d34d5cc4dce3d45ebe7984ae7fd69e",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "Dependencies",
+      "line": 228,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:a4cf2c1dd579e4fb0f547771f10b17c81d36c3ac33cb50a32fd0e9749da692a4",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "Dependencies (as published): FPF spec://ai.lev/fpf-spec/contract/C-16#root and spec://ai.lev/fpf-spec/contract/C-11-CRC#root; qualified holder meanings and evidence. @status:spec/done",
+      "line": 230,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:d781f4923103a0a888f47254122709eddffee83053de434693bd640897480641",
+      "doc_path": "contract/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/contract/DOCA-1-CHR.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-doca/contract/DOCA-1#root @status:spec/done",
+      "line": 231,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-1-CHR#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:6b90eee44123f9734e5886ce7536ae390e74f294b1ce107b100a1225537b32ad",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "DOCA.2 - Search Neighboring Uses, Technologies, Characteristics, and Supports for Development Opportunities",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:679f411e073c2f4808a5e13a5ca0f4bb2f28edc7b9812fd9d65b9594d690b2de",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "DOCA.2:1 - Problem Frame",
+      "line": 13,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:97c4457b532aa562e080520a232b54e2420fa19c757a7bb70a81fb79285d640f",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "DOCA.2:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:1645b6f081d7d57877b6a88ab6e1dc55d0c63b21f70ce932f0c093c21386f156",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "DOCA.2:3 - Forces",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:535d31d33b6db89ca9996f5fc2501ee5ff6d6dfd94430316d191f151676ce3f2",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "DOCA.2:4 - Solution",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#solution"
+    },
+    {
+      "anchor": "choose-the-search-question-and-its-limit",
+      "content_hash": "sha256:0c72beecd6143ab0322eb6fb17603efcd664b6adb617bbd3cdaf58ec3533f795",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "DOCA.2:4.1 - Choose the search question and its limit",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#choose-the-search-question-and-its-limit"
+    },
+    {
+      "anchor": "search-from-more-than-one-direction-when-it-can-change-the",
+      "content_hash": "sha256:35c011f44506d91ad15e595a47afc6168d6acc054aabce41fbd001444170e1a2",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "DOCA.2:4.2 - Search from more than one direction when it can change the answer",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#search-from-more-than-one-direction-when-it-can-change-the"
+    },
+    {
+      "anchor": "keep-the-operation-source-and-claim-status-together",
+      "content_hash": "sha256:efac282780996b0ac10db119b65a2f5444b9c56995758ea434e630bba26c417a",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "DOCA.2:4.3 - Keep the operation, source, and claim status together",
+      "line": 73,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#keep-the-operation-source-and-claim-status-together"
+    },
+    {
+      "anchor": "retain-meaningful-contrasts-without-prematurely-ranking-them",
+      "content_hash": "sha256:33fabd4030f2a080d0f911de2bdf068a56e7feace321a886bf3d7ee8231c55ee",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "DOCA.2:4.4 - Retain meaningful contrasts without prematurely ranking them",
+      "line": 81,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#retain-meaningful-contrasts-without-prematurely-ranking-them"
+    },
+    {
+      "anchor": "stop-at-a-useful-difference-or-an-exact-gap",
+      "content_hash": "sha256:66d4a1e531b2dc0a7e99b9649c1de1d159a53b91f8e5622d6104cdda54a138c3",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "DOCA.2:4.5 - Stop at a useful difference or an exact gap",
+      "line": 89,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#stop-at-a-useful-difference-or-an-exact-gap"
+    },
+    {
+      "anchor": "use-formal-search-machinery-only-for-its-actual-question",
+      "content_hash": "sha256:63a54410dd765a26cd4c40e2323245402464ee01aa948466b5cddd5a33d8d363",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "DOCA.2:4.6 - Use formal search machinery only for its actual question",
+      "line": 97,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#use-formal-search-machinery-only-for-its-actual-question"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:512bffea90a478a12510c5383ff6ba36656e93a485a55a24450da135c531c586",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "DOCA.2:7 - Conformance Checklist",
+      "line": 107,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:4e7636e04051d8e6eb1aa046a55f8046baf4b893cc45d8131b03f044fa22699d",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "DOCA.2:9 - Consequences",
+      "line": 121,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:f5f0ebe92cd5696e86dcd5d8e6249f0aae1b134000e63f82889a6994062315ef",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "DOCA.2:12 - Relations",
+      "line": 127,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:deba93ac8e91193229c060c98d0dd3005ef143cc9264c0aa6f991de5bbfb1f89",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "Dependencies",
+      "line": 139,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:67341ae308887d1a4938a1baf722b99cd55d11e88d32207e698124a754d84bb6",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "Dependencies (as published): A bounded inquiry; direct sources; spec://ai.lev/fpf-spec/contract/C-18#root and spec://ai.lev/fpf-spec/contract/C-19#root only for their actual archive or live-pool questions. @status:spec/done",
+      "line": 141,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:6eef7d72f858a3bf28abcf25d98a4b6f36718591417309d20fde527b938c548f",
+      "doc_path": "contract/DOCA-2",
+      "file": "vibevm/vibespecs/contract/DOCA-2.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-str/contract/STR-5#root @status:spec/done",
+      "line": 142,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-2#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:8a5edaee0e5aa761883fdd5fbe7f16fe17f2497ff29086133c054f1335ebbea7",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "DOCA.3 - Construct a Worthwhile Problem and Proposed Contribution",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:13fe38a73b55d3106fa2e184af45d92a17c64f40249507ddf71a2e4ee78f2aa4",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "DOCA.3:1 - Problem Frame",
+      "line": 13,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:34aa82b377265b720db1553a2da59e8ea5850118989f849bd5180a0fe44a4e91",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "DOCA.3:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:ee432364b5e889ffea7ac29ec05878061d20302b17415d9bed6bd494894433bf",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "DOCA.3:3 - Forces",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:6c08ee3335042a80ccc84d5d978b02d405858635ecf235948f58987ce3af7af7",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "DOCA.3:4 - Solution",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#solution"
+    },
+    {
+      "anchor": "recover-the-receiver-s-situation",
+      "content_hash": "sha256:57c608a01512078ef157e2770aa5a9b7250f14a93e92bcce063519075c1ab694",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "DOCA.3:4.1 - Recover the receiver's situation",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#recover-the-receiver-s-situation"
+    },
+    {
+      "anchor": "separate-the-problem-from-the-proposed-answer",
+      "content_hash": "sha256:2d80c0be3f4d13ba2dd6fc6549cc4253624cff59bc7e7d6b1f1e67d3abfaead3",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "DOCA.3:4.2 - Separate the problem from the proposed answer",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#separate-the-problem-from-the-proposed-answer"
+    },
+    {
+      "anchor": "establish-what-makes-the-problem-worthwhile",
+      "content_hash": "sha256:a398f1feb3e3fa5f89b3648506bd972c3b1998c568269c53d188e48bcdabaaff",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "DOCA.3:4.3 - Establish what makes the problem worthwhile",
+      "line": 68,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#establish-what-makes-the-problem-worthwhile"
+    },
+    {
+      "anchor": "state-the-proposed-contribution-and-its-acceptance-expectation",
+      "content_hash": "sha256:31403382c9e4d82e84fa0a804030b22fbb5dac589945a010f08d34997bc02b52",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "DOCA.3:4.4 - State the proposed contribution and its acceptance expectation",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#state-the-proposed-contribution-and-its-acceptance-expectation"
+    },
+    {
+      "anchor": "link-the-contribution-to-the-problem-without-assuming-success",
+      "content_hash": "sha256:33266e061f8036f7ec9082b7b3a58bfed6d4df9cc54e0f80cc17cd68b316a68b",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "DOCA.3:4.5 - Link the contribution to the problem without assuming success",
+      "line": 91,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#link-the-contribution-to-the-problem-without-assuming-success"
+    },
+    {
+      "anchor": "return-the-account-at-the-strength-it-supports",
+      "content_hash": "sha256:7e101788fb14fab1fa5ed2c10770e7eb5d1f2c8cf926113cb1f6796900d1a22a",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "DOCA.3:4.6 - Return the account at the strength it supports",
+      "line": 99,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#return-the-account-at-the-strength-it-supports"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:fa1b1bdbaf5b3b3e69e3abc190a749eb056dad8b1bf66bae65582e6dbd184311",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "DOCA.3:7 - Conformance Checklist",
+      "line": 109,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:eb9fce26263828473837b24289955926a51fd5000251003e5fe719399178d767",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "DOCA.3:9 - Consequences",
+      "line": 123,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:d4953208752908ada61d004dc27e89b72207d7aa7604beb05e5eebf1409868d1",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "DOCA.3:12 - Relations",
+      "line": 129,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:8247599c0e5a204929a5dfd721fc6d5cbf3dad67193f9a5c1bca1a530e529af7",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "Dependencies",
+      "line": 141,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:074106263a41a3d0de0023d23659c184e48ca7d253bd51f4ad2967a1b2117510",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-psd/contract/PSD-3#root for competing formulations; FPF spec://ai.lev/fpf-spec/contract/A-2-3#root for promise meaning; receiver and domain evidence. @status:spec/done",
+      "line": 143,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:8052445c6b07405bc694e71bf85a576df4bbc7b38519ad7499fff1fdade833aa",
+      "doc_path": "contract/DOCA-3",
+      "file": "vibevm/vibespecs/contract/DOCA-3.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-mkt/contract/MKT-1#root @status:spec/done",
+      "line": 144,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-3#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:c5951dad87ba4121ec53a6b0243f9cbcd40f08cb676d34a7980868fc23d53d7a",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "DOCA.4 - Construct Development Directions with Their Support Configurations",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:e118386bee2bb59dd7992a4a2f9903473f6fde7895acb1794520f81f8418dd81",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "DOCA.4:1 - Problem Frame",
+      "line": 13,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:af029a13c0d11452149a9e7c744d81186f1493c6fb3ceeaed68a3105b9971dcb",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "DOCA.4:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:a8ac63072a73a0d96fd8e3ade94906449d25b719792bfa0036f27a8ee98b9c77",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "DOCA.4:3 - Forces",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:55d12f4fefbde12dbb54c47ff5f4b78ca45f1992bad1abe4101a55eea10f5cad",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "DOCA.4:4 - Solution",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#solution"
+    },
+    {
+      "anchor": "recover-the-contribution-and-the-actual-starting-condition",
+      "content_hash": "sha256:a26b69c9ce4930ad57b9f67b00c16809d5a12d99440e1d084f9627fdded13535",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "DOCA.4:4.1 - Recover the contribution and the actual starting condition",
+      "line": 47,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#recover-the-contribution-and-the-actual-starting-condition"
+    },
+    {
+      "anchor": "turn-a-label-into-a-complete-contribution",
+      "content_hash": "sha256:457310020d5339b1224357fe861945ae49accadb2e8ff4125015127c8a5ff9e5",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "DOCA.4:4.2 - Turn a label into a complete contribution",
+      "line": 55,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#turn-a-label-into-a-complete-contribution"
+    },
+    {
+      "anchor": "construct-materially-different-directions",
+      "content_hash": "sha256:854a8cee844460dfe0d22324b695af9ac36deb965b1ecacbaba7a27aabab7eb9",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "DOCA.4:4.3 - Construct materially different directions",
+      "line": 65,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#construct-materially-different-directions"
+    },
+    {
+      "anchor": "specify-the-finite-change-and-support-configuration",
+      "content_hash": "sha256:afcc9237a960c18924dc287f893dea48e51c5cbd4ec0b3df249b557e07114fa4",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "DOCA.4:4.4 - Specify the finite change and support configuration",
+      "line": 78,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#specify-the-finite-change-and-support-configuration"
+    },
+    {
+      "anchor": "preserve-the-complete-finite-comparison-basis",
+      "content_hash": "sha256:3baefe53a3e3efe6e2bd7051dc71a2b03359366cb57e2e3ed792355fef1bdaa8",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "DOCA.4:4.5 - Preserve the complete finite-comparison basis",
+      "line": 93,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#preserve-the-complete-finite-comparison-basis"
+    },
+    {
+      "anchor": "return-a-usable-candidate-or-the-exact-gap",
+      "content_hash": "sha256:057a6d4b19505fd99b14cae500322b0182d6bd00a8a3555df95da8b98ef8cb7d",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "DOCA.4:4.6 - Return a usable candidate or the exact gap",
+      "line": 105,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#return-a-usable-candidate-or-the-exact-gap"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:c8f0d16b60cdccace527614933e8c836d604e012fa85018fcedeb9857ea03469",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "DOCA.4:7 - Conformance Checklist",
+      "line": 119,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:6980f49e7dab34af9fa88ade7f2fcc4e3e09d385f9dc5375c5bed918c76de67a",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "DOCA.4:9 - Consequences",
+      "line": 135,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:c0a270598df1d920bd1607643b700fc4ef5588a751bfe955b8cc80b174f965e6",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "DOCA.4:12 - Relations",
+      "line": 143,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:cc505ecb89900bf0704683a80ceaab0a97c73df42e412fd22289b28a3e695f8e",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "Dependencies",
+      "line": 157,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:3483e72c610f437836c233b4805e9f16b20a085cab06f0367f2d109d97f7af21",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-spec/contract/C-11-CRC#root; HCD, OCE and other holder practices; spec://ai.lev/fpf-eng-doca/contract/DOCA-5#root for joint reachability. @status:spec/done",
+      "line": 159,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:6eef7d72f858a3bf28abcf25d98a4b6f36718591417309d20fde527b938c548f",
+      "doc_path": "contract/DOCA-4",
+      "file": "vibevm/vibespecs/contract/DOCA-4.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-str/contract/STR-5#root @status:spec/done",
+      "line": 160,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-4#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:6d22d3cbfaaf04bdc6d6b1a90e5631854786cc3f69e027b669f126e6c3fcd095",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "DOCA.5 - Qualify Development-Direction Dependencies and Bound Joint Reachability",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:e809d676622a89d6c4514a14e1c33f8654299c2593eaed2aae99869230753c7d",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "DOCA.5:1 - Problem Frame",
+      "line": 13,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:334db53a5457fbe9231b73a88a97abd46f42ba7a285bc1a0647aafcd5e2eb4ed",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "DOCA.5:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:985d550e837d01afe1cae4abc908e02d25377f47f77a4b131c11c1e83981edb7",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "DOCA.5:3 - Forces",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:e3881afd71644f8bbc08eab9bfc8d025baa47d30ed189d69537108d805a5714a",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "DOCA.5:4 - Solution",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#solution"
+    },
+    {
+      "anchor": "bind-the-claim-before-testing-its-dependencies",
+      "content_hash": "sha256:a9a4a18a863e2aa86e77ce4f55d6f2ab42a4aab08230deb0a177faddcb8d7bd7",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "DOCA.5:4.1 - Bind the claim before testing its dependencies",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#bind-the-claim-before-testing-its-dependencies"
+    },
+    {
+      "anchor": "use-the-supplying-practice-s-qualified-result",
+      "content_hash": "sha256:892aa23e13fa89f863aeade75b91e997996ee7c6cda3f6823410628bdf7cf288",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "DOCA.5:4.2 - Use the supplying practice's qualified result",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#use-the-supplying-practice-s-qualified-result"
+    },
+    {
+      "anchor": "test-the-combination-not-just-its-ingredients",
+      "content_hash": "sha256:eff947d569e5991af9fe473edb579a881e71e9c318a0b0456dc84a8fd4947952",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "DOCA.5:4.3 - Test the combination, not just its ingredients",
+      "line": 64,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#test-the-combination-not-just-its-ingredients"
+    },
+    {
+      "anchor": "include-transition-burden-recovery-and-future-options",
+      "content_hash": "sha256:c4ae475cf20cd753ce887b979f6da12d14b1d5dd5227a94f381f4cbcc7347306",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "DOCA.5:4.4 - Include transition burden, recovery, and future options",
+      "line": 74,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#include-transition-burden-recovery-and-future-options"
+    },
+    {
+      "anchor": "return-the-strongest-supported-reachability-claim",
+      "content_hash": "sha256:0b178038002af4a5878f066b5d3fae78879e4d28851af2653f5a0505d2c07a7c",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "DOCA.5:4.5 - Return the strongest supported reachability claim",
+      "line": 84,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#return-the-strongest-supported-reachability-claim"
+    },
+    {
+      "anchor": "return-to-the-next-actual-use",
+      "content_hash": "sha256:b051c2d1b58f1c6f7ffd7a49940991fa1634ca95c2173e2c3a10862dc9eeb450",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "DOCA.5:4.6 - Return to the next actual use",
+      "line": 105,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#return-to-the-next-actual-use"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:8b3c3e920d531c93ae9c8796030ad6eb461a564ef570cb06d9992d8865684657",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "DOCA.5:7 - Conformance Checklist",
+      "line": 111,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:21fa0a68af88ca25531bd69be7ed8cd7d679f86c475c21e15731e1b53bea68a1",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "DOCA.5:9 - Consequences",
+      "line": 124,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:f0fecb3beb9a89febdc7214dab2cdc1eb8a39f3aa66cfbe62a0ffbcc379cb71e",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "DOCA.5:12 - Relations",
+      "line": 130,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:eec660a8e94d95fa2cf86c0c9c27a5f9e10def969ff1502471d2610dae4732b7",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "Dependencies",
+      "line": 141,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:ea3ad22068a66220864b48a96d81ed4eef7c63e8e1879e43557afc0392dcb34c",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-spec/contract/A-15-9#root; spec://ai.lev/fpf-spec/contract/C-11-CRC#root; qualified direct feasibility and permission results. @status:spec/done",
+      "line": 143,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:9d4953ee4dd81d618a24aeea630217fa00fcb5445be4168aaf2e48d7762b43e4",
+      "doc_path": "contract/DOCA-5",
+      "file": "vibevm/vibespecs/contract/DOCA-5.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-doca/contract/DOCA-4#root @status:spec/done",
+      "line": 144,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-5#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:434837c5d64dabdfabecf9db41ee0a4d34a85b6518099cbf155b69e718dc56ee",
+      "doc_path": "contract/DOCA-6",
+      "file": "vibevm/vibespecs/contract/DOCA-6.md",
+      "heading": "DOCA.6 - Maintain an Opportunity Portfolio and Preserve Stepping Stones",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-6#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:1136a407a9e4cdd2d871b3a24984ae0ff350268cae5326c32608d1d5f0212ad4",
+      "doc_path": "contract/DOCA-6",
+      "file": "vibevm/vibespecs/contract/DOCA-6.md",
+      "heading": "DOCA.6:1 - Problem Frame",
+      "line": 13,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-6#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:1cba815adbed2e7595e059b5631dcdcb89b913f6e87f16c3603a4fcca762acb6",
+      "doc_path": "contract/DOCA-6",
+      "file": "vibevm/vibespecs/contract/DOCA-6.md",
+      "heading": "DOCA.6:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-6#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:d7c900048df20a91509d6345e2b18c2317240ec58b206beb6f93a70b3684a85f",
+      "doc_path": "contract/DOCA-6",
+      "file": "vibevm/vibespecs/contract/DOCA-6.md",
+      "heading": "DOCA.6:3 - Forces",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-6#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:25506e2422dc2b1bfacbddfc8109360743edc09cd2711ad6bcb96a9695c684c4",
+      "doc_path": "contract/DOCA-6",
+      "file": "vibevm/vibespecs/contract/DOCA-6.md",
+      "heading": "DOCA.6:4 - Solution",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-6#solution"
+    },
+    {
+      "anchor": "state-why-and-for-how-long-something-is-retained",
+      "content_hash": "sha256:c2b1575090e22785dc26a1b36e9502a4aef683bf21dff08944f6eeee0bb408e5",
+      "doc_path": "contract/DOCA-6",
+      "file": "vibevm/vibespecs/contract/DOCA-6.md",
+      "heading": "DOCA.6:4.1 - State why and for how long something is retained",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-6#state-why-and-for-how-long-something-is-retained"
+    },
+    {
+      "anchor": "make-each-stepping-stone-claim-testable",
+      "content_hash": "sha256:6a01f838b7620c17febbc0c578a30bbb9f8d0c6e454d0adb1a136436348c36c4",
+      "doc_path": "contract/DOCA-6",
+      "file": "vibevm/vibespecs/contract/DOCA-6.md",
+      "heading": "DOCA.6:4.2 - Make each stepping-stone claim testable",
+      "line": 58,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-6#make-each-stepping-stone-claim-testable"
+    },
+    {
+      "anchor": "construct-paths-from-their-stage-specific-configurations",
+      "content_hash": "sha256:1d84c35b2e80b71845a53c0a065c553e3a88fc56ee4a41f389a3421ae920d6d3",
+      "doc_path": "contract/DOCA-6",
+      "file": "vibevm/vibespecs/contract/DOCA-6.md",
+      "heading": "DOCA.6:4.3 - Construct paths from their stage-specific configurations",
+      "line": 70,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-6#construct-paths-from-their-stage-specific-configurations"
+    },
+    {
+      "anchor": "keep-the-set-inspectable-without-forcing-a-winner",
+      "content_hash": "sha256:3325d7ff435e1846b87821db935cee863f88b429c7e0f051dcc4561b278abacb",
+      "doc_path": "contract/DOCA-6",
+      "file": "vibevm/vibespecs/contract/DOCA-6.md",
+      "heading": "DOCA.6:4.4 - Keep the set inspectable without forcing a winner",
+      "line": 82,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-6#keep-the-set-inspectable-without-forcing-a-winner"
+    },
+    {
+      "anchor": "use-archive-front-and-pool-treatment-only-for-their-actual",
+      "content_hash": "sha256:40a13770a71f396e8764fdf5136fc54433a6517a8cb8c2bbacfa88da7ebd785e",
+      "doc_path": "contract/DOCA-6",
+      "file": "vibevm/vibespecs/contract/DOCA-6.md",
+      "heading": "DOCA.6:4.5 - Use archive, front, and pool treatment only for their actual questions",
+      "line": 92,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-6#use-archive-front-and-pool-treatment-only-for-their-actual"
+    },
+    {
+      "anchor": "return-a-discriminating-question-and-reconsider-locally",
+      "content_hash": "sha256:764743ca47c6ea1e057feb0d4a429252aed2fd0a351cf21ea79abe48a9e74be3",
+      "doc_path": "contract/DOCA-6",
+      "file": "vibevm/vibespecs/contract/DOCA-6.md",
+      "heading": "DOCA.6:4.6 - Return a discriminating question and reconsider locally",
+      "line": 102,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-6#return-a-discriminating-question-and-reconsider-locally"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:33983f66d46942afc99cde41b8bcf45d3ee3d7677caec7f9ec4fefbd8354ca93",
+      "doc_path": "contract/DOCA-6",
+      "file": "vibevm/vibespecs/contract/DOCA-6.md",
+      "heading": "DOCA.6:7 - Conformance Checklist",
+      "line": 112,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-6#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:3cac03b0cd06036dfdebfa97432e1d9a150a53d7aead5271570d66dad03891e4",
+      "doc_path": "contract/DOCA-6",
+      "file": "vibevm/vibespecs/contract/DOCA-6.md",
+      "heading": "DOCA.6:9 - Consequences",
+      "line": 126,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-6#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:682d0573364eb499018e567ad2b580332bfd134bac3dbaf8799f94ea7a6bc81f",
+      "doc_path": "contract/DOCA-6",
+      "file": "vibevm/vibespecs/contract/DOCA-6.md",
+      "heading": "DOCA.6:12 - Relations",
+      "line": 132,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-6#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:66498ad2cb172ee03dc9f92a5ced9c22840cd463ffe041c71eb9b5dd7cbcae96",
+      "doc_path": "contract/DOCA-6",
+      "file": "vibevm/vibespecs/contract/DOCA-6.md",
+      "heading": "Dependencies",
+      "line": 144,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-6#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:d09c5d6e8251cffeafbef10d7e78f0c8d275dc0a91abc9ce14407c9f684e4ee4",
+      "doc_path": "contract/DOCA-6",
+      "file": "vibevm/vibespecs/contract/DOCA-6.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-spec/contract/C-18#root; spec://ai.lev/fpf-spec/contract/C-19#root for live-pool treatment; spec://ai.lev/fpf-spec/contract/C-11-CRC#root for stage-specific comparison; spec://ai.lev/fpf-eng-doca/contract/DOCA-8#root for change. @status:spec/done",
+      "line": 146,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-6#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:f4b555d72a22517a2ec7add968418e5b0e143433f5e64ec4c2a43338d7f34a8d",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "DOCA.7 - Bound the Development-Direction Advising Engagement",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:f3b1e9105d0653da31a1aa61f14175fe4de6fbb1f3b3d31cce6011f2484ad8d6",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "DOCA.7:1 - Problem Frame",
+      "line": 13,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:c70b53adf6e21920d135e78cbf5a190f9f5e5494504ce0544bb1833b84a7f595",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "DOCA.7:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:58d253cd402ae17c46c550fb940a35b6b57116d8e1db39473da511440d9c8043",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "DOCA.7:3 - Forces",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:9c60f5ff4cd5a1bc0175b8a1188c6171d429c2eb5c5bb99a48ac68c58bb0d8cd",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "DOCA.7:4 - Solution",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#solution"
+    },
+    {
+      "anchor": "identify-the-actual-relationship-and-receiving-use",
+      "content_hash": "sha256:69dae2ab06f4d09ecf2fa9cdd478419486c4b4d1d9e00aea5525570701872ddf",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "DOCA.7:4.1 - Identify the actual relationship and receiving use",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#identify-the-actual-relationship-and-receiving-use"
+    },
+    {
+      "anchor": "bound-the-service-by-competence-and-applicable-duties",
+      "content_hash": "sha256:3db84f8db1c38afc123eba0741bfbb3e58d5af8f5c2f8015b881e43ad0603d3e",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "DOCA.7:4.2 - Bound the service by competence and applicable duties",
+      "line": 56,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#bound-the-service-by-competence-and-applicable-duties"
+    },
+    {
+      "anchor": "agree-participation-information-use-and-disclosure",
+      "content_hash": "sha256:cc61870be488057700783ffddf9c06e42df526e24cb550984e763b8f7036f720",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "DOCA.7:4.3 - Agree participation, information use, and disclosure",
+      "line": 66,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#agree-participation-information-use-and-disclosure"
+    },
+    {
+      "anchor": "treat-conflicts-before-relying-on-the-advice",
+      "content_hash": "sha256:c22af2b53f5443ea952db71bf276c7a4f68a448fff92ff4517a311769b527733",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "DOCA.7:4.4 - Treat conflicts before relying on the advice",
+      "line": 76,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#treat-conflicts-before-relying-on-the-advice"
+    },
+    {
+      "anchor": "distinguish-ai-assistance-from-an-ai-development-subject",
+      "content_hash": "sha256:d0bd0122a95b60c242c83c606f05e5f00dabfb3d7b6ac7983e6631a81af97cdc",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "DOCA.7:4.5 - Distinguish AI assistance from an AI development subject",
+      "line": 86,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#distinguish-ai-assistance-from-an-ai-development-subject"
+    },
+    {
+      "anchor": "enter-at-the-missing-substantive-result",
+      "content_hash": "sha256:0d353db3fa297f1b2c3d16c8d4f755d01a63948a4f7d20f8ce8e7bb7649687c8",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "DOCA.7:4.6 - Enter at the missing substantive result",
+      "line": 94,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#enter-at-the-missing-substantive-result"
+    },
+    {
+      "anchor": "return-the-boundary-and-preserve-actual-closure-duties",
+      "content_hash": "sha256:f7e7baa4f0dc18ae06ebca16d883b694514657055425659045c3de46885edca6",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "DOCA.7:4.7 - Return the boundary and preserve actual closure duties",
+      "line": 104,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#return-the-boundary-and-preserve-actual-closure-duties"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:aa78b382d3d25686bf324b6465425aa53c02015d1e6d44196672dcf4bf69e55a",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "DOCA.7:7 - Conformance Checklist",
+      "line": 118,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:27a1761e7bf721aa7ef0325ae484971b15e33348f32055dc203f09a7d9ed4230",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "DOCA.7:9 - Consequences",
+      "line": 131,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:7796c157746b790ee10efcfd7988b0c20b433834c0b7061a9f0c570728b18938",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "DOCA.7:12 - Relations",
+      "line": 137,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:32a36e09bf9b349313e80f40ce018cb8980b010e96730c58522aa05c0846068c",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "Dependencies",
+      "line": 149,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:a80464c8c66ee0930c7a6eca6781dfb119edac51b1400c15c5f9855bf1564460",
+      "doc_path": "contract/DOCA-7",
+      "file": "vibevm/vibespecs/contract/DOCA-7.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-psd/contract/PSD-1#root; applicable professional conditions; spec://ai.lev/fpf-spec/contract/A-15-9#root; spec://ai.lev/fpf-eng-psd/contract/PSD-8#root–spec://ai.lev/fpf-eng-psd/contract/PSD-13#root for the missing advice contribution. @status:spec/done",
+      "line": 151,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-7#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:f004c549c2daae9c2cf8b8de132a2e37871f58da9db00d7f3020bc8f662eb1fe",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "DOCA.8 - Requalify Changed Development Opportunities",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:7e2fdd0059da444538d0c9d8f38f5d2331751de4db5e87aa64bd0947211ac32f",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "DOCA.8:1 - Problem Frame",
+      "line": 13,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:5cecd2bd59c985f4fda1909bffcf2c449363cf68900d78560b23dfc8235b89d7",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "DOCA.8:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:f4200109f3b8334aaa2c72d631eb997c1474e2c9165a600d0fcbfc3708976422",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "DOCA.8:3 - Forces",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:65bf990b43fceb1fedb48a052e39793a296eff08408cfcf2b8ceddfe634741b5",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "DOCA.8:4 - Solution",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#solution"
+    },
+    {
+      "anchor": "identify-what-changed-and-what-the-current-use-requires",
+      "content_hash": "sha256:ecda448174d3935bb8033aa514c70bd400380590e12cc2f666d7ab690f54929c",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "DOCA.8:4.1 - Identify what changed and what the current use requires",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#identify-what-changed-and-what-the-current-use-requires"
+    },
+    {
+      "anchor": "establish-the-affected-use-not-just-a-connection",
+      "content_hash": "sha256:5cac8ef5986a0af7a3996383480988c8295dc606be9c4992ea129f3276705f21",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "DOCA.8:4.2 - Establish the affected use, not just a connection",
+      "line": 64,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#establish-the-affected-use-not-just-a-connection"
+    },
+    {
+      "anchor": "obtain-the-result-that-changes-the-opportunity-claim",
+      "content_hash": "sha256:64845dbffc1a45bc1bf76ac6f0abb9e4863939b236c57044f280a4f35134ca70",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "DOCA.8:4.3 - Obtain the result that changes the opportunity claim",
+      "line": 74,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#obtain-the-result-that-changes-the-opportunity-claim"
+    },
+    {
+      "anchor": "state-the-smallest-warranted-disposition",
+      "content_hash": "sha256:4184b76c96a170b8968cec651c7dd77b1907caf3e9b911ff318b2d21357e14de",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "DOCA.8:4.4 - State the smallest warranted disposition",
+      "line": 86,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#state-the-smallest-warranted-disposition"
+    },
+    {
+      "anchor": "return-affected-advice-and-action-questions-to-their-owners",
+      "content_hash": "sha256:1b495d7f5395b5ca125beea53af636b3e9fe32ba6caa08935d028f1dd5c57b6d",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "DOCA.8:4.5 - Return affected advice and action questions to their owners",
+      "line": 104,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#return-affected-advice-and-action-questions-to-their-owners"
+    },
+    {
+      "anchor": "close-the-bounded-update-and-keep-a-feasible-reopen-condition",
+      "content_hash": "sha256:506dc2e6782bfb6db66d204cbc8f9895f347c5bb6d22beb9c2a53896601f9f60",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "DOCA.8:4.6 - Close the bounded update and keep a feasible reopen condition",
+      "line": 114,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#close-the-bounded-update-and-keep-a-feasible-reopen-condition"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:7113e5012c0a151dd6eb1f6652de3fcb6b9681481b3456187e859575721f3ca7",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "DOCA.8:7 - Conformance Checklist",
+      "line": 124,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:afd909e749fa9d2661bbfe87052e20cc367af61324f21cb81bb70363960beff4",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "DOCA.8:9 - Consequences",
+      "line": 138,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:3116d7f73126fc2790c5b638aeeafa9425a02a2d742e03725059aedb6a8551f5",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "DOCA.8:12 - Relations",
+      "line": 144,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:21bf28d16648f8e552edd1d7e055b69f790cae77c56404d0a17c82dad7529c84",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "Dependencies",
+      "line": 156,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:cc7d6cce13816023dcca785c7193adc8c3c379412dccf8140916d691fb970e6c",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-spec/contract/A-10#root/spec://ai.lev/fpf-spec/contract/A-10-1#root, spec://ai.lev/fpf-spec/contract/A-15-9#root and direct subject practices; spec://ai.lev/fpf-eng-psd/contract/PSD-14#root for affected advice; spec://ai.lev/fpf-spec/contract/G-11#root for currentness. @status:spec/done",
+      "line": 158,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:2b70eb2c262ac1e7181fa431f4526217917f2c158e9c4fd4ee71dd0eee6e03f9",
+      "doc_path": "contract/DOCA-8",
+      "file": "vibevm/vibespecs/contract/DOCA-8.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-doca/contract/DOCA-6#root @status:spec/done",
+      "line": 159,
+      "uri": "spec://ai.lev/fpf-eng-doca/contract/DOCA-8#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:c02f4b8bf0d9f00769dfac1beb48a1ec58fb92f92997c2ffe1e0e718c496361e",
+      "doc_path": "pub/ABOUT",
+      "file": "vibevm/vibespecs/pub/ABOUT.md",
+      "heading": "Development Opportunity Construction and Development-Direction Advising Principles Framework",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/ABOUT#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:3f5354a894e6dfb0bf02b017c1d21572b98229e43b16e376edae5748dbb65a88",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "Preface",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/PREFACE#root"
+    },
+    {
+      "anchor": "preface-1",
+      "content_hash": "sha256:b38a878dcb1eb439e6e16a31e5313c6054e51aa43f0ed81d1ec3164c7229ab43",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "DOCA.Preface:1 - Two independently usable branches",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/PREFACE#preface-1"
+    },
+    {
+      "anchor": "preface-2",
+      "content_hash": "sha256:f1d30919027cc48e7e781f42d8c5aa767a4633ab50e65fb4aaf6ecde72adfdaf",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "DOCA.Preface:2 - From an available result to a useful return",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/PREFACE#preface-2"
+    },
+    {
+      "anchor": "preface-3",
+      "content_hash": "sha256:ebf557e62f57b77da7d282f3ec53699421ba87fa01ed06300999998a8c032792",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "DOCA.Preface:3 - Qualify the combination as well as its ingredients",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/PREFACE#preface-3"
+    },
+    {
+      "anchor": "preface-4",
+      "content_hash": "sha256:0a3da2e49b240cb24896f75b041dd12fe1b43cebc80dc1de7ae37a62cfbebe4d",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "DOCA.Preface:4 - Compare a later step from its own starting point",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/PREFACE#preface-4"
+    },
+    {
+      "anchor": "preface-5",
+      "content_hash": "sha256:01b04f2c0468afedbcbdfa92b905429f70fe2dd0735b6a91857b637ab76d13a3",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "DOCA.Preface:5 - Respond to a change without rewriting the past",
+      "line": 57,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/PREFACE#preface-5"
+    },
+    {
+      "anchor": "preface-6",
+      "content_hash": "sha256:962c88a4242c186d8229f95fba2800a8c6065f2cba6a7184e7546d342935b099",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "DOCA.Preface:6 - Architectural Rationale",
+      "line": 67,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/PREFACE#preface-6"
+    },
+    {
+      "anchor": "preface-7",
+      "content_hash": "sha256:ffd922ddbf5267ac0a7b16a38cec47974c5c89292b4398c5c48cb8af32049575",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "DOCA.Preface:7 - Source synthesis, costs and limits",
+      "line": 81,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/PREFACE#preface-7"
+    },
+    {
+      "anchor": "preface-end",
+      "content_hash": "sha256:072516961a36e41c69c469498dcf71aa5f2e0a1d21804ada4b9766331a0c4e6b",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "DOCA.Preface:End",
+      "line": 95,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/PREFACE#preface-end"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:1910f104874f16e62fa855b34820f15eb781c498fe5c416e4f19ca374fcc17e4",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Readme — Development Opportunity Construction and Development-Direction Advising",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/README#root"
+    },
+    {
+      "anchor": "practical-entries",
+      "content_hash": "sha256:8ec7d6fb73dfcd02d2056696e6b3ee9249c69ea08b43e178a2d17e71c3035772",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Practical entries",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/README#practical-entries"
+    },
+    {
+      "anchor": "doca-construct-opportunity-find-a-contribution-before-choosing",
+      "content_hash": "sha256:5c6a24136328173531173a4a273104ada7152c0bf83ccbd0e6f053bad8aad91d",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "DOCA-CONSTRUCT-OPPORTUNITY — Find a contribution before choosing a course or tool",
+      "line": 13,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/README#doca-construct-opportunity-find-a-contribution-before-choosing"
+    },
+    {
+      "anchor": "doca-advise-direction-return-warranted-advice-without-taking",
+      "content_hash": "sha256:5dcb7f019a345a47b646bb4b9e78cd1c6ec340ca04e70c9ac574e8e445e07cc4",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "DOCA-ADVISE-DIRECTION — Return warranted advice without taking the choice",
+      "line": 35,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/README#doca-advise-direction-return-warranted-advice-without-taking"
+    },
+    {
+      "anchor": "reading-and-citing-a-pattern",
+      "content_hash": "sha256:a2f77a16b9cde0484bd2231437c13673d309c44e73dfc1ffb13e0ced3825bb70",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Reading and citing a pattern",
+      "line": 59,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/README#reading-and-citing-a-pattern"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:df291381d69152c22cb8ea41587d550b41f4cd37830d4d5f48dac49446f5f11a",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Table of Contents",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/TOC#root"
+    },
+    {
+      "anchor": "public-units",
+      "content_hash": "sha256:52b325ae0e209b458cfd12f2ae341492df65c26ff2d4a8b828ffb5e594c953ea",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Public units",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/TOC#public-units"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:724536fa44525a2ea011612c81a6ad2e2735b734b65b7d7cb607c03990808631",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "Cross-pattern applications",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#root"
+    },
+    {
+      "anchor": "app-doca-01-mira-s-development-direction-programme-comparison",
+      "content_hash": "sha256:1ac9161e46185da366e2d4d300834082b6f112cc1937aa65789de5dd04064b43",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "APP-DOCA-01 — Mira's development direction, programme comparison, and Guide",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#app-doca-01-mira-s-development-direction-programme-comparison"
+    },
+    {
+      "anchor": "the-working-difficulty-and-the-first-bounded-return",
+      "content_hash": "sha256:e7f0d1b8a5777ab802493460c0cbf029c46b8511b32b7b6b42acf6290d5bb6f0",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "The working difficulty and the first bounded return",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#the-working-difficulty-and-the-first-bounded-return"
+    },
+    {
+      "anchor": "a-complete-pattern-contribution-not-learn-a-15-9",
+      "content_hash": "sha256:6b0ef57f3ed24cbf68e4781d0ab20d46e14d3f718ce2448dc8b012160c098dcb",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "A complete pattern contribution, not “learn A.15.9”",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#a-complete-pattern-contribution-not-learn-a-15-9"
+    },
+    {
+      "anchor": "finite-directions-and-a-conditional-later-step",
+      "content_hash": "sha256:c7b85f437c00d60646736a7a36902f828e73a6854eda86c833a17dca89f4b404",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "Finite directions and a conditional later step",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#finite-directions-and-a-conditional-later-step"
+    },
+    {
+      "anchor": "advice-and-the-two-distinct-choices",
+      "content_hash": "sha256:4dfdabe2f09a9de1a2893affb41f5de0ac9c2d9d4c922ef961517e58d241cc32",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "Advice and the two distinct choices",
+      "line": 53,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#advice-and-the-two-distinct-choices"
+    },
+    {
+      "anchor": "guide-realization-performed-attempts-and-evidence",
+      "content_hash": "sha256:9d2d889145b46dc48c5d9911ca8185aca139f6b93f51add177b44fe01cb876d6",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "Guide realization, performed attempts, and evidence",
+      "line": 70,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#guide-realization-performed-attempts-and-evidence"
+    },
+    {
+      "anchor": "a-direct-programme-level-entry",
+      "content_hash": "sha256:d1b80d3452626e36c51cdb6ff0aa9763a311eaa12c4a53644b886f8a11d4927e",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "A direct programme-level entry",
+      "line": 84,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#a-direct-programme-level-entry"
+    },
+    {
+      "anchor": "app-doca-02-an-engineering-company-s-next-development",
+      "content_hash": "sha256:237a7785798cea33f5cd47a1a7627182b096c7f6cea3d2193cc829dcbd5c20ea",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "APP-DOCA-02 — An engineering company's next development opportunities",
+      "line": 88,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#app-doca-02-an-engineering-company-s-next-development"
+    },
+    {
+      "anchor": "one-receiving-question-several-kinds-of-direction",
+      "content_hash": "sha256:4f6f33ec65391d630ea3782233c64f714dc0f67356f76040dfc02656873cfa6c",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "One receiving question, several kinds of direction",
+      "line": 90,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#one-receiving-question-several-kinds-of-direction"
+    },
+    {
+      "anchor": "joint-limits-and-a-useful-return",
+      "content_hash": "sha256:3ae1ae98403717ba9a03272e8677d69c44cca1d2a9219fdc1d56f7d94fccac4b",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "Joint limits and a useful return",
+      "line": 109,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#joint-limits-and-a-useful-return"
+    },
+    {
+      "anchor": "app-doca-03-unlike-subjects-exact-recipients-and-an-anti-case",
+      "content_hash": "sha256:ce0160d2838cfe3fbec0d0386f6e52b3b9984f79e5062d5911f3e0a98e1476ed",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "APP-DOCA-03 — Unlike subjects, exact recipients, and an anti-case",
+      "line": 119,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#app-doca-03-unlike-subjects-exact-recipients-and-an-anti-case"
+    },
+    {
+      "anchor": "community-and-governance",
+      "content_hash": "sha256:f9875ce461451f02334bd41396d40eafac9ccd1fa1e2733f0ff757384ef4048f",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "Community and governance",
+      "line": 123,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#community-and-governance"
+    },
+    {
+      "anchor": "ai-model-or-composite-arrangement",
+      "content_hash": "sha256:d47a32fd99ba6002eac068f8ef45ba243eadc37ccbf36c323ad8f37eff27d964",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "AI/model or composite arrangement",
+      "line": 129,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#ai-model-or-composite-arrangement"
+    },
+    {
+      "anchor": "engineered-platform-or-facility",
+      "content_hash": "sha256:7275895ad9803328a8b226d20a69a820804c96d11301218f870430c63cd23e4e",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "Engineered platform or facility",
+      "line": 137,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#engineered-platform-or-facility"
+    },
+    {
+      "anchor": "research-programme-or-body-of-knowledge",
+      "content_hash": "sha256:9557ed17db00b12ccb874e4c7f56b0c58b7dd018dbec00fa8756af6c207fd586",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "Research programme or body of knowledge",
+      "line": 143,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#research-programme-or-body-of-knowledge"
+    },
+    {
+      "anchor": "non-cultural-population-or-lineage",
+      "content_hash": "sha256:b868dedb665efae5b78cc3c04bdc252b6530c0ab4e3106b223a8783b2698158d",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "Non-cultural population or lineage",
+      "line": 149,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#non-cultural-population-or-lineage"
+    },
+    {
+      "anchor": "what-the-contrast-preserves",
+      "content_hash": "sha256:2fc96db51dae78a2e06d6a0cc97526530cb8ed58e81681afaab1aa0ce39c389a",
+      "doc_path": "pub/cross-pattern-applications",
+      "file": "vibevm/vibespecs/pub/cross-pattern-applications.md",
+      "heading": "What the contrast preserves",
+      "line": 155,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/cross-pattern-applications#what-the-contrast-preserves"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:a0eeed6f4e2ce2a0b93471f26c2c42d05faba822cd28b2d318338a9a9917babf",
+      "doc_path": "pub/framework-boundary-sources-and-refresh",
+      "file": "vibevm/vibespecs/pub/framework-boundary-sources-and-refresh.md",
+      "heading": "Framework boundary, sources and refresh",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/framework-boundary-sources-and-refresh#root"
+    },
+    {
+      "anchor": "covered-work-and-independent-entry",
+      "content_hash": "sha256:9e64600ece1fcec9122bc21c3fea004b15a7af43c359b507a35743defa762188",
+      "doc_path": "pub/framework-boundary-sources-and-refresh",
+      "file": "vibevm/vibespecs/pub/framework-boundary-sources-and-refresh.md",
+      "heading": "Covered work and independent entry",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/framework-boundary-sources-and-refresh#covered-work-and-independent-entry"
+    },
+    {
+      "anchor": "results-supplied-by-other-practices",
+      "content_hash": "sha256:63e18fe673103fd97bff6040394084f2cdf91b26caa37805c06581379d5b1a9b",
+      "doc_path": "pub/framework-boundary-sources-and-refresh",
+      "file": "vibevm/vibespecs/pub/framework-boundary-sources-and-refresh.md",
+      "heading": "Results supplied by other practices",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/framework-boundary-sources-and-refresh#results-supplied-by-other-practices"
+    },
+    {
+      "anchor": "source-responsibility-and-references",
+      "content_hash": "sha256:2e1c75b72bdc807eb92189525ebc6d710f920250002fda91b533f39fb96eb11b",
+      "doc_path": "pub/framework-boundary-sources-and-refresh",
+      "file": "vibevm/vibespecs/pub/framework-boundary-sources-and-refresh.md",
+      "heading": "Source responsibility and references",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/framework-boundary-sources-and-refresh#source-responsibility-and-references"
+    },
+    {
+      "anchor": "opportunity-characterization-and-retained-possibilities",
+      "content_hash": "sha256:c56685e2e9202850cf4271642f45782a1a23d0fe33acc3beed6bf3f22c556e25",
+      "doc_path": "pub/framework-boundary-sources-and-refresh",
+      "file": "vibevm/vibespecs/pub/framework-boundary-sources-and-refresh.md",
+      "heading": "Opportunity, characterization, and retained possibilities",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/framework-boundary-sources-and-refresh#opportunity-characterization-and-retained-possibilities"
+    },
+    {
+      "anchor": "professional-and-ai-source-qualification",
+      "content_hash": "sha256:b6f9c5ab17313eede1f676251fe65478d4d29bfa0f3bfe887da7e834f7bea241",
+      "doc_path": "pub/framework-boundary-sources-and-refresh",
+      "file": "vibevm/vibespecs/pub/framework-boundary-sources-and-refresh.md",
+      "heading": "Professional and AI-source qualification",
+      "line": 48,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/framework-boundary-sources-and-refresh#professional-and-ai-source-qualification"
+    },
+    {
+      "anchor": "direct-frameworks-predecessor-sources-and-honest-omissions",
+      "content_hash": "sha256:2f405a2c2dbe8903d3902fca37d1432ee10a97490528e044778644169ad695bb",
+      "doc_path": "pub/framework-boundary-sources-and-refresh",
+      "file": "vibevm/vibespecs/pub/framework-boundary-sources-and-refresh.md",
+      "heading": "Direct frameworks, predecessor sources, and honest omissions",
+      "line": 59,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/framework-boundary-sources-and-refresh#direct-frameworks-predecessor-sources-and-honest-omissions"
+    },
+    {
+      "anchor": "requalification-and-guidance-refresh",
+      "content_hash": "sha256:870c38b80770e49bd9f2a229207c282de9242e52d01ff96f4ef863a48e0dec14",
+      "doc_path": "pub/framework-boundary-sources-and-refresh",
+      "file": "vibevm/vibespecs/pub/framework-boundary-sources-and-refresh.md",
+      "heading": "Requalification and guidance refresh",
+      "line": 69,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/framework-boundary-sources-and-refresh#requalification-and-guidance-refresh"
+    },
+    {
+      "anchor": "reading-the-references",
+      "content_hash": "sha256:e61ef075265e6eb2056240ce44d4f08d7f339076d81633023a96a985ceeb94b9",
+      "doc_path": "pub/framework-boundary-sources-and-refresh",
+      "file": "vibevm/vibespecs/pub/framework-boundary-sources-and-refresh.md",
+      "heading": "Reading the references",
+      "line": 77,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/framework-boundary-sources-and-refresh#reading-the-references"
+    },
+    {
+      "anchor": "fpf-source-locators",
+      "content_hash": "sha256:043615a6402a6731008fecf811f5825e776c3820b5df29a51512d4a8ae79a4ef",
+      "doc_path": "pub/framework-boundary-sources-and-refresh",
+      "file": "vibevm/vibespecs/pub/framework-boundary-sources-and-refresh.md",
+      "heading": "FPF source locators",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/framework-boundary-sources-and-refresh#fpf-source-locators"
+    },
+    {
+      "anchor": "learning-product-source-access",
+      "content_hash": "sha256:bbb7306c3e5e6366280a851332284a74f0ca4aa00bbf639d65d558fca10c773b",
+      "doc_path": "pub/framework-boundary-sources-and-refresh",
+      "file": "vibevm/vibespecs/pub/framework-boundary-sources-and-refresh.md",
+      "heading": "Learning Product source access",
+      "line": 106,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/framework-boundary-sources-and-refresh#learning-product-source-access"
+    },
+    {
+      "anchor": "foundations-programme-source-access",
+      "content_hash": "sha256:373f417a3530d5f79d2c301afa45e6ca5ce985833f15bbe0f4238758b9f48003",
+      "doc_path": "pub/framework-boundary-sources-and-refresh",
+      "file": "vibevm/vibespecs/pub/framework-boundary-sources-and-refresh.md",
+      "heading": "Foundations programme source access",
+      "line": 118,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/framework-boundary-sources-and-refresh#foundations-programme-source-access"
+    },
+    {
+      "anchor": "predecessor-source-account-access",
+      "content_hash": "sha256:761821611b7a6b0711f2c03a3485f89f0d44e9687419dd17077165c68d0d1e78",
+      "doc_path": "pub/framework-boundary-sources-and-refresh",
+      "file": "vibevm/vibespecs/pub/framework-boundary-sources-and-refresh.md",
+      "heading": "Predecessor source-account access",
+      "line": 124,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/framework-boundary-sources-and-refresh#predecessor-source-account-access"
+    },
+    {
+      "anchor": "a-useful-stop-when-access-is-incomplete",
+      "content_hash": "sha256:f7e9d8794843adbe2c9b03a21b9f6eb92ffdd5e26a67485a8b9d4c1337343e92",
+      "doc_path": "pub/framework-boundary-sources-and-refresh",
+      "file": "vibevm/vibespecs/pub/framework-boundary-sources-and-refresh.md",
+      "heading": "A useful stop when access is incomplete",
+      "line": 130,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/framework-boundary-sources-and-refresh#a-useful-stop-when-access-is-incomplete"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:b65b95774c886acea61beaaf639f3d70c01d8d1c92edd90e68199c9ccc21547c",
+      "doc_path": "pub/parts/part-i-enter-and-characterize-the-inquiry",
+      "file": "vibevm/vibespecs/pub/parts/part-i-enter-and-characterize-the-inquiry.md",
+      "heading": "Part I — Enter and characterize the inquiry",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/parts/part-i-enter-and-characterize-the-inquiry#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:75c80cda9a33318a4ab685f452e4e5ff3f58345ac7c55bd96632e37049c162ce",
+      "doc_path": "pub/parts/part-ii-construct-opportunities",
+      "file": "vibevm/vibespecs/pub/parts/part-ii-construct-opportunities.md",
+      "heading": "Part II — Construct opportunities",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/parts/part-ii-construct-opportunities#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:829ea9d708d4e495a4b73152a43d2bf9a14b26abba89cc88028f4b1abee4fd4e",
+      "doc_path": "pub/parts/part-iii-qualify-reachability-and-retain-options",
+      "file": "vibevm/vibespecs/pub/parts/part-iii-qualify-reachability-and-retain-options.md",
+      "heading": "Part III — Qualify reachability and retain options",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/parts/part-iii-qualify-reachability-and-retain-options#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:4d73933e2fdbd36436c05847387f802327cb7fdd9381402dd07ab93f5ad4280e",
+      "doc_path": "pub/parts/part-iv-bound-advice-and-requalify-change",
+      "file": "vibevm/vibespecs/pub/parts/part-iv-bound-advice-and-requalify-change.md",
+      "heading": "Part IV — Bound advice and requalify change",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/pub/parts/part-iv-bound-advice-and-requalify-change#root"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:5272f2c35221d41dd78f01e3ee56507e2955910debcf5534f9632d28e3c5acfc",
+      "doc_path": "source/DOCA-1",
+      "file": "vibevm/vibespecs/source/DOCA-1.md",
+      "heading": "DOCA.1 - Bound the Development-Opportunity Inquiry: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:ddb9be2e99919ee6cf3a8b23d98d26b2b00e752f632e27bfcb6f0f89ab418d7d",
+      "doc_path": "source/DOCA-1",
+      "file": "vibevm/vibespecs/source/DOCA-1.md",
+      "heading": "DOCA.1:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1#archetypal-grounding"
+    },
+    {
+      "anchor": "person-entering-construction-without-an-adviser",
+      "content_hash": "sha256:ec9b3f2d1fbb451daaac72490d0bfc654e84f28844c3ea8fcdb97470ea688144",
+      "doc_path": "source/DOCA-1",
+      "file": "vibevm/vibespecs/source/DOCA-1.md",
+      "heading": "DOCA.1:5.1 - Person entering construction without an adviser",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1#person-entering-construction-without-an-adviser"
+    },
+    {
+      "anchor": "organization-with-a-fashionable-solution",
+      "content_hash": "sha256:cad5a5f869cab0aa8bc93e6b2c34b6d455b38feec3c158078b74d960e95f0588",
+      "doc_path": "source/DOCA-1",
+      "file": "vibevm/vibespecs/source/DOCA-1.md",
+      "heading": "DOCA.1:5.2 - Organization with a fashionable solution",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1#organization-with-a-fashionable-solution"
+    },
+    {
+      "anchor": "advice-can-enter-elsewhere",
+      "content_hash": "sha256:4872ef0c2c916c3ebd23bfbb3b52d2fd6a7e2266204741db17227252ecfed4ef",
+      "doc_path": "source/DOCA-1",
+      "file": "vibevm/vibespecs/source/DOCA-1.md",
+      "heading": "DOCA.1:5.3 - Advice can enter elsewhere",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1#advice-can-enter-elsewhere"
+    },
+    {
+      "anchor": "population-anti-case",
+      "content_hash": "sha256:90687a35bc64bf89ecb53b02a5b3bc8bef984334b6c7bcfb62e7d9e87a9f6290",
+      "doc_path": "source/DOCA-1",
+      "file": "vibevm/vibespecs/source/DOCA-1.md",
+      "heading": "DOCA.1:5.4 - Population anti-case",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1#population-anti-case"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:fe6f8903cc92313c9931af4af56b3e2f5712bc8a4262304f14ce3d4bea1d79ac",
+      "doc_path": "source/DOCA-1",
+      "file": "vibevm/vibespecs/source/DOCA-1.md",
+      "heading": "DOCA.1:6 - Bias-Annotation",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:f98c00423e4becd10c0b67bb398596c988ad9d563742752889535822503edc93",
+      "doc_path": "source/DOCA-1",
+      "file": "vibevm/vibespecs/source/DOCA-1.md",
+      "heading": "DOCA.1:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "rationale",
+      "content_hash": "sha256:33fb4b70be094715bc51f160e5853688b4ed232ad88f54ac9e003a8df4568095",
+      "doc_path": "source/DOCA-1",
+      "file": "vibevm/vibespecs/source/DOCA-1.md",
+      "heading": "DOCA.1:10 - Rationale",
+      "line": 51,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1#rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:6ffaedd26ba9ffa0da035cd5239e2bb05987f833c05670842f84e580bc27ae19",
+      "doc_path": "source/DOCA-1",
+      "file": "vibevm/vibespecs/source/DOCA-1.md",
+      "heading": "DOCA.1:11 - SoTA-Echoing",
+      "line": 57,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:30621da9bc79277a1cbb62f8495f0956c7a0d455c7e525abacf69aa58df95aee",
+      "doc_path": "source/DOCA-1",
+      "file": "vibevm/vibespecs/source/DOCA-1.md",
+      "heading": "DOCA.1:End",
+      "line": 70,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:4dd80e1c8ebcf596fa15e7b67909e1c63b2b350eb8003b9e3ea6c9fe5b552b33",
+      "doc_path": "source/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/source/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR - Characterize the Development Subject and Intended Change: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1-CHR#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:2da65c17d88125b3e04f1529e71adaa8677edf87d8e5395b56fad76de46aa042",
+      "doc_path": "source/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/source/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1-CHR#archetypal-grounding"
+    },
+    {
+      "anchor": "person-and-representative-later-work",
+      "content_hash": "sha256:3487d52fb2a7f71f7be88c1d8b42b933f6a5d10500e5d2cc63b87632443f0520",
+      "doc_path": "source/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/source/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:5.1 - Person and representative later Work",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1-CHR#person-and-representative-later-work"
+    },
+    {
+      "anchor": "organization-without-one-maturity-score",
+      "content_hash": "sha256:39adee5c63d0d0146eadfacc3fd5e94505307b78f0ccd99c6ae4c9ea0535bccf",
+      "doc_path": "source/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/source/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:5.2 - Organization without one maturity score",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1-CHR#organization-without-one-maturity-score"
+    },
+    {
+      "anchor": "ai-arrangement-and-configuration-identity",
+      "content_hash": "sha256:6d3c47c36164f60d3b0e045e6b37ed662f6da6aef675a0c1cb5747e52d48fb09",
+      "doc_path": "source/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/source/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:5.3 - AI arrangement and configuration identity",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1-CHR#ai-arrangement-and-configuration-identity"
+    },
+    {
+      "anchor": "already-adequate-characterization",
+      "content_hash": "sha256:a3fe0bd5abbfbac8e8ca6219adf33b9359eb823360f6d659666913ab6d4422b0",
+      "doc_path": "source/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/source/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:5.4 - Already adequate characterization",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1-CHR#already-adequate-characterization"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:54e5f3b22b38a23e00d8e7ac0387de78662064250f1e86dd20869d47b8869753",
+      "doc_path": "source/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/source/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:6 - Bias-Annotation",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1-CHR#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:4e0ceaa2915f98ea7bbbadefb7ce70169eea8cbb2b305ce49a1f473b8fcda00c",
+      "doc_path": "source/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/source/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1-CHR#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "rationale",
+      "content_hash": "sha256:d5a8f5f26e11a5ff897af15881a9cfca019a9bd4994cce251628b97f11b9f776",
+      "doc_path": "source/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/source/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:10 - Rationale",
+      "line": 56,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1-CHR#rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:d524eb9f48bf0a39be9da03138be668847471bf35772023b25d66553ded9af93",
+      "doc_path": "source/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/source/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:11 - SoTA-Echoing",
+      "line": 62,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1-CHR#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:5c5e30ee3912379785698afde593870327d8106be9142a52cb706ab52919ac04",
+      "doc_path": "source/DOCA-1-CHR",
+      "file": "vibevm/vibespecs/source/DOCA-1-CHR.md",
+      "heading": "DOCA.1.CHR:End",
+      "line": 77,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-1-CHR#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:ec6b9b1ff21bc76fab032c22ae7dfc92b05456df059aa5a86a201bed598bd014",
+      "doc_path": "source/DOCA-2",
+      "file": "vibevm/vibespecs/source/DOCA-2.md",
+      "heading": "DOCA.2 - Search Neighboring Uses, Technologies, Characteristics, and Supports for Development Opportunities: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-2#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:6576c29a4fa14dc83dae2d73dfab18bd5eb9a2e02746d3535c6781c0ede6a4c0",
+      "doc_path": "source/DOCA-2",
+      "file": "vibevm/vibespecs/source/DOCA-2.md",
+      "heading": "DOCA.2:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-2#archetypal-grounding"
+    },
+    {
+      "anchor": "a-model-announcement-becomes-two-different-questions",
+      "content_hash": "sha256:a44548fd914e0ac0526c5a7ee645aae963fcbcb06b5579c1e3e79c9ca707ef6a",
+      "doc_path": "source/DOCA-2",
+      "file": "vibevm/vibespecs/source/DOCA-2.md",
+      "heading": "DOCA.2:5.1 - A model announcement becomes two different questions",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-2#a-model-announcement-becomes-two-different-questions"
+    },
+    {
+      "anchor": "a-person-searches-contributions-not-course-names",
+      "content_hash": "sha256:4ff44a75f0e6726961acb8331452cbbf93bcee5450983f3422e91f8d9b96154e",
+      "doc_path": "source/DOCA-2",
+      "file": "vibevm/vibespecs/source/DOCA-2.md",
+      "heading": "DOCA.2:5.2 - A person searches contributions, not course names",
+      "line": 19,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-2#a-person-searches-contributions-not-course-names"
+    },
+    {
+      "anchor": "an-adequate-facility-set-is-reused",
+      "content_hash": "sha256:6df40dddab2bec2ef1adc3260d3a8c00965bdf52ff619a468e96091be4008a67",
+      "doc_path": "source/DOCA-2",
+      "file": "vibevm/vibespecs/source/DOCA-2.md",
+      "heading": "DOCA.2:5.3 - An adequate facility set is reused",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-2#an-adequate-facility-set-is-reused"
+    },
+    {
+      "anchor": "a-useful-question-emerges-from-available-material",
+      "content_hash": "sha256:6a73576144d51b1cea5897a09cf8a370bcd71f2b6576c79e6fdd6b78ee4688fe",
+      "doc_path": "source/DOCA-2",
+      "file": "vibevm/vibespecs/source/DOCA-2.md",
+      "heading": "DOCA.2:5.4 - A useful question emerges from available material",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-2#a-useful-question-emerges-from-available-material"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:23cbcb87f922f303324425dc7829da5d9d0343ee4552f58f6d4afdbdd1593a77",
+      "doc_path": "source/DOCA-2",
+      "file": "vibevm/vibespecs/source/DOCA-2.md",
+      "heading": "DOCA.2:6 - Bias-Annotation",
+      "line": 37,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-2#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:45a51aea8b5ac5f53144390e8b54c251a15935e43a6a4c68f5a09aea80be7549",
+      "doc_path": "source/DOCA-2",
+      "file": "vibevm/vibespecs/source/DOCA-2.md",
+      "heading": "DOCA.2:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-2#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "rationale",
+      "content_hash": "sha256:f0ffd2c1447f3532299b9f304c52df4733b7ed41756b3a4221aa213a9e2d6696",
+      "doc_path": "source/DOCA-2",
+      "file": "vibevm/vibespecs/source/DOCA-2.md",
+      "heading": "DOCA.2:10 - Rationale",
+      "line": 57,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-2#rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:32142f5596d9c53586b6735d1564013563af122885513d7a18b480715df664b5",
+      "doc_path": "source/DOCA-2",
+      "file": "vibevm/vibespecs/source/DOCA-2.md",
+      "heading": "DOCA.2:11 - SoTA-Echoing",
+      "line": 63,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-2#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:8285b705088c638b8982de288d86353c3955b6dbe9aa632b6a19aa2d3cd56d8d",
+      "doc_path": "source/DOCA-2",
+      "file": "vibevm/vibespecs/source/DOCA-2.md",
+      "heading": "DOCA.2:End",
+      "line": 76,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-2#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:0f4bce737c8b77e73cc99c741f4a9ec9babc999eacb0108d5802e409ca1ea0cd",
+      "doc_path": "source/DOCA-3",
+      "file": "vibevm/vibespecs/source/DOCA-3.md",
+      "heading": "DOCA.3 - Construct a Worthwhile Problem and Proposed Contribution: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-3#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:04d6a4ba2faa83260d26192d6e0a87e99d7a771d273aaebd81ccf48120618ded",
+      "doc_path": "source/DOCA-3",
+      "file": "vibevm/vibespecs/source/DOCA-3.md",
+      "heading": "DOCA.3:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-3#archetypal-grounding"
+    },
+    {
+      "anchor": "qualification-support-is-not-faster-approval",
+      "content_hash": "sha256:02733a2748d330d7751edf672552187c5cac4a17c79b25b21aaaa8f99e63e211",
+      "doc_path": "source/DOCA-3",
+      "file": "vibevm/vibespecs/source/DOCA-3.md",
+      "heading": "DOCA.3:5.1 - Qualification support is not faster approval",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-3#qualification-support-is-not-faster-approval"
+    },
+    {
+      "anchor": "receiver-inquiry-rejects-a-supplier-lead",
+      "content_hash": "sha256:7968008a2c2009785cfdc015df768ed8fdb71c0348b96928b513f7d9af2e62bf",
+      "doc_path": "source/DOCA-3",
+      "file": "vibevm/vibespecs/source/DOCA-3.md",
+      "heading": "DOCA.3:5.2 - Receiver inquiry rejects a supplier lead",
+      "line": 19,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-3#receiver-inquiry-rejects-a-supplier-lead"
+    },
+    {
+      "anchor": "a-research-problem-remains-a-hypothesis",
+      "content_hash": "sha256:8bd14d583db5e9b2c5b9169c63b1361966f4cecfa11533617cc2cf7d4af1a234",
+      "doc_path": "source/DOCA-3",
+      "file": "vibevm/vibespecs/source/DOCA-3.md",
+      "heading": "DOCA.3:5.3 - A research problem remains a hypothesis",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-3#a-research-problem-remains-a-hypothesis"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:fa279f9fe978badb60794448c31441898c7c08a150ec67af98d3368e5766f8ab",
+      "doc_path": "source/DOCA-3",
+      "file": "vibevm/vibespecs/source/DOCA-3.md",
+      "heading": "DOCA.3:6 - Bias-Annotation",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-3#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:092e07b33db22d145540e301f16672488b782a7c7a459fb8f33ee7708fb65c3f",
+      "doc_path": "source/DOCA-3",
+      "file": "vibevm/vibespecs/source/DOCA-3.md",
+      "heading": "DOCA.3:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 40,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-3#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "rationale",
+      "content_hash": "sha256:4474071bec5bb58b598edd5d72b3ed38b824aa8e1ba5752654dfa841d2670aca",
+      "doc_path": "source/DOCA-3",
+      "file": "vibevm/vibespecs/source/DOCA-3.md",
+      "heading": "DOCA.3:10 - Rationale",
+      "line": 51,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-3#rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:a2eef59ad834d2d653af657a5cbbd322964d4cad862aff84e317885cb57cca63",
+      "doc_path": "source/DOCA-3",
+      "file": "vibevm/vibespecs/source/DOCA-3.md",
+      "heading": "DOCA.3:11 - SoTA-Echoing",
+      "line": 57,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-3#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:956eff7ada470d4e9d93b4fd4b0ce679596fda4edb849f6df52103c58cb05c7d",
+      "doc_path": "source/DOCA-3",
+      "file": "vibevm/vibespecs/source/DOCA-3.md",
+      "heading": "DOCA.3:End",
+      "line": 70,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-3#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:b6017bbb12b2674d5151a4026f53d969cf738728a5378d5f25702bc241125c4b",
+      "doc_path": "source/DOCA-4",
+      "file": "vibevm/vibespecs/source/DOCA-4.md",
+      "heading": "DOCA.4 - Construct Development Directions with Their Support Configurations: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-4#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:5a836044130b0128e52836620a76f8f81fcf5fb12682feb0a9c3aee547644bf1",
+      "doc_path": "source/DOCA-4",
+      "file": "vibevm/vibespecs/source/DOCA-4.md",
+      "heading": "DOCA.4:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-4#archetypal-grounding"
+    },
+    {
+      "anchor": "a-complete-pattern-contribution-for-a-person-s-later-work",
+      "content_hash": "sha256:d3ddd0d802b263f10ba97a2f58d5fe21fb68a5766b05db99b96ff215d3ca469e",
+      "doc_path": "source/DOCA-4",
+      "file": "vibevm/vibespecs/source/DOCA-4.md",
+      "heading": "DOCA.4:5.1 - A complete pattern contribution for a person's later Work",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-4#a-complete-pattern-contribution-for-a-person-s-later-work"
+    },
+    {
+      "anchor": "a-faster-retrieval-candidate-is-not-a-cost-free-improvement",
+      "content_hash": "sha256:3d440da733655c164e9870d8e2b409fdce952cb8df8ade5a2cc8c2b9d66edb5e",
+      "doc_path": "source/DOCA-4",
+      "file": "vibevm/vibespecs/source/DOCA-4.md",
+      "heading": "DOCA.4:5.2 - A faster retrieval candidate is not a cost-free improvement",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-4#a-faster-retrieval-candidate-is-not-a-cost-free-improvement"
+    },
+    {
+      "anchor": "the-ai-subject-is-the-arrangement-being-changed",
+      "content_hash": "sha256:4f3b92c58d0b0eb528002d127260c4f7f56c843ecd033b657805a9e1b37386e4",
+      "doc_path": "source/DOCA-4",
+      "file": "vibevm/vibespecs/source/DOCA-4.md",
+      "heading": "DOCA.4:5.3 - The AI subject is the arrangement being changed",
+      "line": 55,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-4#the-ai-subject-is-the-arrangement-being-changed"
+    },
+    {
+      "anchor": "direct-same-result-arrangement-work-is-enough",
+      "content_hash": "sha256:26041863e5e556930aa3fac0bdcb9afeafae6147ff5173869233630195734d6a",
+      "doc_path": "source/DOCA-4",
+      "file": "vibevm/vibespecs/source/DOCA-4.md",
+      "heading": "DOCA.4:5.4 - Direct same-result arrangement work is enough",
+      "line": 61,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-4#direct-same-result-arrangement-work-is-enough"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:1d22303259380af4e34f052768640475c4848b8e1445dff038b29083e1b61e28",
+      "doc_path": "source/DOCA-4",
+      "file": "vibevm/vibespecs/source/DOCA-4.md",
+      "heading": "DOCA.4:6 - Bias-Annotation",
+      "line": 65,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-4#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:3f0610efdd998d52c0646896f8389427d918defec1077455b6d0cc0a5d5a8a6f",
+      "doc_path": "source/DOCA-4",
+      "file": "vibevm/vibespecs/source/DOCA-4.md",
+      "heading": "DOCA.4:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 75,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-4#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "rationale",
+      "content_hash": "sha256:8f16411ff248e8a1a44803e5b4ad421ee96e64ad404f70eb6f0e6a8e8ac9b35a",
+      "doc_path": "source/DOCA-4",
+      "file": "vibevm/vibespecs/source/DOCA-4.md",
+      "heading": "DOCA.4:10 - Rationale",
+      "line": 87,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-4#rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:e4fce06aef085d48f55d7fce201dd1d747a0c34d79a41bfbb3eaf9efa21b3482",
+      "doc_path": "source/DOCA-4",
+      "file": "vibevm/vibespecs/source/DOCA-4.md",
+      "heading": "DOCA.4:11 - SoTA-Echoing",
+      "line": 93,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-4#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:c07a60b5337780360a8d9b69c30cdca01ab654df1a1f5648675c5c00f3a84ef3",
+      "doc_path": "source/DOCA-4",
+      "file": "vibevm/vibespecs/source/DOCA-4.md",
+      "heading": "DOCA.4:End",
+      "line": 106,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-4#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:e35646a592a80f41bc0591ed6c9506a00af4b9a8460f2a49b82126b99150189e",
+      "doc_path": "source/DOCA-5",
+      "file": "vibevm/vibespecs/source/DOCA-5.md",
+      "heading": "DOCA.5 - Qualify Development-Direction Dependencies and Bound Joint Reachability: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-5#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:429ae84994b8221af3a769f9140d475ac200b05fb34a9b326eb124a416474551",
+      "doc_path": "source/DOCA-5",
+      "file": "vibevm/vibespecs/source/DOCA-5.md",
+      "heading": "DOCA.5:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-5#archetypal-grounding"
+    },
+    {
+      "anchor": "two-feasible-support-directions-cannot-share-the-same-hours",
+      "content_hash": "sha256:8276f1ea8bdc0265003c845c5f108a8e123b53396f1c0fb145617bc9d5dc45d6",
+      "doc_path": "source/DOCA-5",
+      "file": "vibevm/vibespecs/source/DOCA-5.md",
+      "heading": "DOCA.5:5.1 - Two feasible support directions cannot share the same hours",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-5#two-feasible-support-directions-cannot-share-the-same-hours"
+    },
+    {
+      "anchor": "mira-needs-a-transfer-premise-not-another-label",
+      "content_hash": "sha256:ea9dcf3bcf835b57fa01d80aaf507482d290706e9d664e3531525232d6a55bb5",
+      "doc_path": "source/DOCA-5",
+      "file": "vibevm/vibespecs/source/DOCA-5.md",
+      "heading": "DOCA.5:5.2 - Mira needs a transfer premise, not another label",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-5#mira-needs-a-transfer-premise-not-another-label"
+    },
+    {
+      "anchor": "data-access-does-not-complete-an-ai-reachability-claim",
+      "content_hash": "sha256:23d5772ae049332da71c8cfa4b24f8ee8c0eabea4b0baf2242db76b31b11a028",
+      "doc_path": "source/DOCA-5",
+      "file": "vibevm/vibespecs/source/DOCA-5.md",
+      "heading": "DOCA.5:5.3 - Data access does not complete an AI reachability claim",
+      "line": 35,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-5#data-access-does-not-complete-an-ai-reachability-claim"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:879945d1c71dd4042001774b3afbac231d4d736601813df91c12603e860a82b4",
+      "doc_path": "source/DOCA-5",
+      "file": "vibevm/vibespecs/source/DOCA-5.md",
+      "heading": "DOCA.5:6 - Bias-Annotation",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-5#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:edc5133257837fde3adcc29912a1a9407f93a98780c59baa18750bf6883eeece",
+      "doc_path": "source/DOCA-5",
+      "file": "vibevm/vibespecs/source/DOCA-5.md",
+      "heading": "DOCA.5:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-5#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "rationale",
+      "content_hash": "sha256:30a89f269d1a1d6c3510347c175b8b97d5f4aa8e71bdf428cb28c292dc8356b6",
+      "doc_path": "source/DOCA-5",
+      "file": "vibevm/vibespecs/source/DOCA-5.md",
+      "heading": "DOCA.5:10 - Rationale",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-5#rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:7a90e45dd6ce192999a414d27fab862f3d6523a67872880c4ef03c22afebc70c",
+      "doc_path": "source/DOCA-5",
+      "file": "vibevm/vibespecs/source/DOCA-5.md",
+      "heading": "DOCA.5:11 - SoTA-Echoing",
+      "line": 66,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-5#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:85691445c335c26d15f5e21a1b0815ed212c88e6300a0d77f80b871101b0a3b8",
+      "doc_path": "source/DOCA-5",
+      "file": "vibevm/vibespecs/source/DOCA-5.md",
+      "heading": "DOCA.5:End",
+      "line": 79,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-5#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:fce5a6b29e8b6aae45d466411f325b440db355e55fc7da502cfa8b214fc73b36",
+      "doc_path": "source/DOCA-6",
+      "file": "vibevm/vibespecs/source/DOCA-6.md",
+      "heading": "DOCA.6 - Maintain an Opportunity Portfolio and Preserve Stepping Stones: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-6#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:d7d075d83da45852a4d24160f2f338a92ea7b3c3de372b4aeb5be9a43b49659b",
+      "doc_path": "source/DOCA-6",
+      "file": "vibevm/vibespecs/source/DOCA-6.md",
+      "heading": "DOCA.6:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-6#archetypal-grounding"
+    },
+    {
+      "anchor": "an-index-changes-the-starting-point-of-the-later-model-step",
+      "content_hash": "sha256:ea8e4d88dbe0e285e27a58be06ae4764be714fe8df464451d955cceaa47890bd",
+      "doc_path": "source/DOCA-6",
+      "file": "vibevm/vibespecs/source/DOCA-6.md",
+      "heading": "DOCA.6:5.1 - An index changes the starting point of the later model step",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-6#an-index-changes-the-starting-point-of-the-later-model-step"
+    },
+    {
+      "anchor": "a-retained-question-can-cease-to-be-a-stepping-stone",
+      "content_hash": "sha256:0a705edf57e01b5d2c8f9c2535e7b1c80b5ae019bef5276ee3e89ccb9bbcb15b",
+      "doc_path": "source/DOCA-6",
+      "file": "vibevm/vibespecs/source/DOCA-6.md",
+      "heading": "DOCA.6:5.2 - A retained question can cease to be a stepping stone",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-6#a-retained-question-can-cease-to-be-a-stepping-stone"
+    },
+    {
+      "anchor": "mira-retains-directions-before-choosing-a-programme",
+      "content_hash": "sha256:b0c4b2239f1db964a9ee01b869132076ac0941e35703b361a36e5db0ffd44446",
+      "doc_path": "source/DOCA-6",
+      "file": "vibevm/vibespecs/source/DOCA-6.md",
+      "heading": "DOCA.6:5.3 - Mira retains directions before choosing a programme",
+      "line": 35,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-6#mira-retains-directions-before-choosing-a-programme"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:435c935598f3be59f568f3980f9bd56761c6a88d65b6369bcb395b269fe75211",
+      "doc_path": "source/DOCA-6",
+      "file": "vibevm/vibespecs/source/DOCA-6.md",
+      "heading": "DOCA.6:6 - Bias-Annotation",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-6#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:b2aa097b12deb37c864562e54acf58a8967d23a17c552bebc5484c44a25e369e",
+      "doc_path": "source/DOCA-6",
+      "file": "vibevm/vibespecs/source/DOCA-6.md",
+      "heading": "DOCA.6:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-6#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "rationale",
+      "content_hash": "sha256:043f10e840a1d538c33a319e6af04f4f5fafc90e407befd575498cd547804176",
+      "doc_path": "source/DOCA-6",
+      "file": "vibevm/vibespecs/source/DOCA-6.md",
+      "heading": "DOCA.6:10 - Rationale",
+      "line": 61,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-6#rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:5052ee032ed3fb0faad6e0f3b844615bdb88ad86d4218bdf31be22dde897185b",
+      "doc_path": "source/DOCA-6",
+      "file": "vibevm/vibespecs/source/DOCA-6.md",
+      "heading": "DOCA.6:11 - SoTA-Echoing",
+      "line": 67,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-6#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:26f199632bc8641be8ecfc4c160c20ab9ab0dc080e2c1ce20f907ecb60697100",
+      "doc_path": "source/DOCA-6",
+      "file": "vibevm/vibespecs/source/DOCA-6.md",
+      "heading": "DOCA.6:End",
+      "line": 80,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-6#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:6ed6a4f1020b1fc515b5adb10591075fae100cd74df067b840c4ee6fef39163e",
+      "doc_path": "source/DOCA-7",
+      "file": "vibevm/vibespecs/source/DOCA-7.md",
+      "heading": "DOCA.7 - Bound the Development-Direction Advising Engagement: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-7#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:6ac4ffb7895a50044e583f9e938936ccc5f5c764789f6e0a7d3a330eb60c26f2",
+      "doc_path": "source/DOCA-7",
+      "file": "vibevm/vibespecs/source/DOCA-7.md",
+      "heading": "DOCA.7:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-7#archetypal-grounding"
+    },
+    {
+      "anchor": "employer-sponsored-advice-remains-mira-s-development-question",
+      "content_hash": "sha256:93d4b944612fdd4eb44aa62e42a5a0c1eb91f285ae059a25196884d1aa7e3a5e",
+      "doc_path": "source/DOCA-7",
+      "file": "vibevm/vibespecs/source/DOCA-7.md",
+      "heading": "DOCA.7:5.1 - Employer-sponsored advice remains Mira's development question",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-7#employer-sponsored-advice-remains-mira-s-development-question"
+    },
+    {
+      "anchor": "a-provider-interest-changes-the-service-not-the-engineering",
+      "content_hash": "sha256:8424640c8f2b62de80f09e6286638cc5b9200ba35bee6f90c8c645bb3421f24c",
+      "doc_path": "source/DOCA-7",
+      "file": "vibevm/vibespecs/source/DOCA-7.md",
+      "heading": "DOCA.7:5.2 - A provider interest changes the service, not the engineering facts",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-7#a-provider-interest-changes-the-service-not-the-engineering"
+    },
+    {
+      "anchor": "a-model-is-the-subject-not-automatically-the-client",
+      "content_hash": "sha256:031e4ccf8211a08a4f3134cfa4b3c613e1ecdd3e826d2f2a0cfecee999050a12",
+      "doc_path": "source/DOCA-7",
+      "file": "vibevm/vibespecs/source/DOCA-7.md",
+      "heading": "DOCA.7:5.3 - A model is the subject, not automatically the client",
+      "line": 37,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-7#a-model-is-the-subject-not-automatically-the-client"
+    },
+    {
+      "anchor": "do-not-create-personal-advice-from-an-audience-description",
+      "content_hash": "sha256:42ba96f17298183e58d8d34b92efe4b7df2cf4ee20245800791d90874d6f7a3e",
+      "doc_path": "source/DOCA-7",
+      "file": "vibevm/vibespecs/source/DOCA-7.md",
+      "heading": "DOCA.7:5.4 - Do not create personal advice from an audience description",
+      "line": 45,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-7#do-not-create-personal-advice-from-an-audience-description"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:da0d0d2a1990e7277e46592f7c804f8cf6f58a10f3060bf4ab194d6a45b4d300",
+      "doc_path": "source/DOCA-7",
+      "file": "vibevm/vibespecs/source/DOCA-7.md",
+      "heading": "DOCA.7:6 - Bias-Annotation",
+      "line": 51,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-7#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:22cd4d56a431799bb7e517ca6ac779fd202ac07e3d8a3ef62738e9e2a2f4fa8b",
+      "doc_path": "source/DOCA-7",
+      "file": "vibevm/vibespecs/source/DOCA-7.md",
+      "heading": "DOCA.7:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 57,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-7#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "rationale",
+      "content_hash": "sha256:a423aaf893ab04be3c42716a2945adf16fa78b8e6560a341940d99b5c2ec057c",
+      "doc_path": "source/DOCA-7",
+      "file": "vibevm/vibespecs/source/DOCA-7.md",
+      "heading": "DOCA.7:10 - Rationale",
+      "line": 69,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-7#rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:d09aeedff20ac03edb5294b24adb8ed60b448c28673f96e182b2d2ad2f46f6b1",
+      "doc_path": "source/DOCA-7",
+      "file": "vibevm/vibespecs/source/DOCA-7.md",
+      "heading": "DOCA.7:11 - SoTA-Echoing",
+      "line": 75,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-7#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:c55cea10244d8bba71e554cf96fd2f70f11773653c7bccf80ccba811787746b0",
+      "doc_path": "source/DOCA-7",
+      "file": "vibevm/vibespecs/source/DOCA-7.md",
+      "heading": "DOCA.7:End",
+      "line": 90,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-7#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:1683b3c0df159c1d30637ddf3b4d0ef990d592b0e9274cdd2e1a0c9b2ccee537",
+      "doc_path": "source/DOCA-8",
+      "file": "vibevm/vibespecs/source/DOCA-8.md",
+      "heading": "DOCA.8 - Requalify Changed Development Opportunities: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-8#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:3506391666047dfbb2e2f01bde85fbc856b0ec8576b1b8fe469ff1b496f1d377",
+      "doc_path": "source/DOCA-8",
+      "file": "vibevm/vibespecs/source/DOCA-8.md",
+      "heading": "DOCA.8:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-8#archetypal-grounding"
+    },
+    {
+      "anchor": "a-narrower-data-permission-does-not-preserve-the-old-whole-use",
+      "content_hash": "sha256:d8b6a52ec90fb3a8989838bbd373e62353463803c5af6e775b2b1f8041e025f5",
+      "doc_path": "source/DOCA-8",
+      "file": "vibevm/vibespecs/source/DOCA-8.md",
+      "heading": "DOCA.8:5.1 - A narrower data permission does not preserve the old whole-use estimate",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-8#a-narrower-data-permission-does-not-preserve-the-old-whole-use"
+    },
+    {
+      "anchor": "a-corrected-source-can-change-use-even-when-the-world-did-not",
+      "content_hash": "sha256:8cdf728745448bcafd4f65afff0d2fbbcac2e4174330b8e9279eee7715986e19",
+      "doc_path": "source/DOCA-8",
+      "file": "vibevm/vibespecs/source/DOCA-8.md",
+      "heading": "DOCA.8:5.2 - A corrected source can change use even when the world did not change",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-8#a-corrected-source-can-change-use-even-when-the-world-did-not"
+    },
+    {
+      "anchor": "changed-service-terms-leave-technical-evidence-distinguishable",
+      "content_hash": "sha256:b29d289f870bde0fb1d6e515f54deca264fae3b5bdc7335f76847ad3839363d0",
+      "doc_path": "source/DOCA-8",
+      "file": "vibevm/vibespecs/source/DOCA-8.md",
+      "heading": "DOCA.8:5.3 - Changed service terms leave technical evidence distinguishable",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-8#changed-service-terms-leave-technical-evidence-distinguishable"
+    },
+    {
+      "anchor": "take-the-cheap-stop-for-unchanged-meaning",
+      "content_hash": "sha256:30a47b39d85a995600dd3e4474dcd3339e5cd1b4a00fec81c707896d2d5c40dc",
+      "doc_path": "source/DOCA-8",
+      "file": "vibevm/vibespecs/source/DOCA-8.md",
+      "heading": "DOCA.8:5.4 - Take the cheap stop for unchanged meaning",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-8#take-the-cheap-stop-for-unchanged-meaning"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:5b04158d422360f69561a968188c62b8a5d79a7510725ad665845c4ebd2c8226",
+      "doc_path": "source/DOCA-8",
+      "file": "vibevm/vibespecs/source/DOCA-8.md",
+      "heading": "DOCA.8:6 - Bias-Annotation",
+      "line": 55,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-8#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:6c0a04ec8776962bda56e3beac0b03b300f409fb0a730240067545ee29f652d7",
+      "doc_path": "source/DOCA-8",
+      "file": "vibevm/vibespecs/source/DOCA-8.md",
+      "heading": "DOCA.8:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 61,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-8#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "rationale",
+      "content_hash": "sha256:df36c1be31955fe88ee49a7d48189233d10072a6040695d0fdbfc5af247244fa",
+      "doc_path": "source/DOCA-8",
+      "file": "vibevm/vibespecs/source/DOCA-8.md",
+      "heading": "DOCA.8:10 - Rationale",
+      "line": 74,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-8#rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:47e7edf255bd9d4261ae216334f49653ecbd64d12eefef4e774675caf3e5d7a9",
+      "doc_path": "source/DOCA-8",
+      "file": "vibevm/vibespecs/source/DOCA-8.md",
+      "heading": "DOCA.8:11 - SoTA-Echoing",
+      "line": 80,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-8#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:d63d404f788dcaa70f45ef14eba7e706f5cf622fa3c9a4e84a4be50c75599879",
+      "doc_path": "source/DOCA-8",
+      "file": "vibevm/vibespecs/source/DOCA-8.md",
+      "heading": "DOCA.8:End",
+      "line": 93,
+      "uri": "spec://ai.lev/fpf-eng-doca/source/DOCA-8#end"
+    }
+  ],
+  "suspects": [],
+  "warnings": []
+}

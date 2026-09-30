@@ -1,0 +1,10 @@
+# Ownership marker of fpf-vibe-gen: this package is generated; do not edit by hand.
+generator = "fpf-vibe-gen 0.1.0"
+package = "fpf-eng-doca"
+version = "2026.929.0"
+upstream_url = "https://github.com/ailev/FPF"
+upstream_commit = "d131d30a44e78523e78da9d22aefd83e59f5e4a4"
+upstream_date = "2026-09-29T12:54:08+03:00"
+source_paths = ["Engineering DPF Suite/DEVELOPMENT-OPPORTUNITY-CONSTRUCTION-AND-DEVELOPMENT-DIRECTION-ADVISING-PRINCIPLES-FRAMEWORK.md"]
+files = 35
+tree_sha256 = "87d0d5b5f2ad65895a119129ad6c01c223f6c985c38d4b73a4419d1ab13d85de"
